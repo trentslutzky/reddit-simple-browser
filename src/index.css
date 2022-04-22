@@ -1,0 +1,22 @@
+html {
+  background: #111111;
+  color: white;
+  font-family: "Space Mono", monospace;
+}
+
+a {
+  color: grey;
+}
+
+pre {
+  background:black;
+  padding:10px;
+  overflow-x:scroll;
+  overflow-y:hidden;
+}
+
+code {
+  background: black;
+  padding:3px;
+  padding-inline:10px;
+}
